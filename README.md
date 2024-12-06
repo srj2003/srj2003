@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Srinjoy Saha</h1>
-<h3 align="center">I am a dedicated computer science engineering student passionate about full-stack web development and have a solid understanding of Java and MySQL.</h3>
+<h3 align="center">I am a dedicated computer science engineering student passionate about full-stack web development and have a solid understanding on Java and MySQL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srj2003&label=Profile%20views&color=0e75b6&style=flat" alt="srj2003" /> </p>
 
